@@ -9,7 +9,7 @@ const Home = () => {
         name="Hire a Photographer @"
         imgsrc={bhavesh_photo}
         visit="/services"
-        btname="Check Gallery"
+        btname="Check Now"
       />
     </>
   );
